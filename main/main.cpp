@@ -1,7 +1,3 @@
-/* main/http_server.c
-   Минимальный HTTP сервер на сокетах + SPIFFS
-*/
-
 #include <string.h>
 #include <sys/param.h>
 #include <sys/socket.h>
